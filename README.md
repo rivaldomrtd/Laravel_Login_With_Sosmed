@@ -3,7 +3,7 @@
 **Google and Facebook**
 
 Penggunaan
->> setting app.php di `config/app.php` tambahkan Framework Service Providers
+1.setting app.php di `config/app.php` tambahkan Framework Service Providers
 `'providers' => [
     Laravel\Socialite\SocialiteServiceProvider::class,
 ],`
