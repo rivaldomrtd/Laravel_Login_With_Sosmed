@@ -4,6 +4,14 @@
 
 **Penggunaan**
 
+```
+1.composer update
+2.composer require laravel/ui
+3.composer require lravel/socialite
+4.php artisan ui bootstrap --auth
+5.npm install && npm run dev
+```
+
 -> setting app.php di `config/app.php` tambahkan Framework Service Providers.
 
 `'providers' => [
@@ -34,13 +42,3 @@
 
  
 
-
-
-```
-1.composer update
-2.composer require laravel/ui
-3.composer require lravel/socialite
-4.php artisan ui bootstrap --auth
-5.npm install && npm run dev
-6.php artisan serve
-```
