@@ -6,7 +6,7 @@
 
 -> setting app.php di `config/app.php` tambahkan Framework Service Providers.
 
-.`'providers' => [
+`'providers' => [
    Laravel\Socialite\SocialiteServiceProvider::class,
 ],`
 
