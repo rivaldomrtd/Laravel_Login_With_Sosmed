@@ -6,11 +6,10 @@
 
 -> setting app.php di `config/app.php` tambahkan Framework Service Providers.
 
-`'providers' => [
-    Laravel\Socialite\SocialiteServiceProvider::class,
+.`'providers' => [
+   Laravel\Socialite\SocialiteServiceProvider::class,
 ],`
 
-   dan tambahkan dibagian "aliases"
 `'aliases' => [
     'Socialite' => Laravel\Socialite\Facades\Socialite::class,
 ],`
