@@ -14,8 +14,10 @@
     'Socialite' => Laravel\Socialite\Facades\Socialite::class,
 ],`
 
-login di google dan facebook developer
-ambil `app_id` dan `secret_id` (facebook and google)
+login di google developer (https://console.cloud.google.com/)
+login di Facebook developer (https://developers.facebook.com)
+ambil `app_id` dan `secret_id`
+
  
 
 
