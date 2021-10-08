@@ -37,6 +37,9 @@
         'redirect'      => 'http://localhost:8000/auth/google/callback',
     ],
  ```
+ 
+-> Coba jalankan Aplikasi 
+`php artisan serve`
 
 
 
