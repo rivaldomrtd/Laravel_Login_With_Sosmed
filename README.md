@@ -18,7 +18,7 @@
 - login di Facebook developer (https://developers.facebook.com)
 - ambil "app_id" dan "secret_id" dan masukan ke `config/service.php`
 - ```
-- 'google' => [
+ 'google' => [
         'client_id' => '539458320374-fg899gak4sikis03pc999e9349ik9te7.apps.googleusercontent.com',
         'client_secret' => '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',
         'redirect' => 'http://localhost:8000/auth/google/callback',
